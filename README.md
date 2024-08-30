@@ -44,6 +44,8 @@ npm start
 `Nota:` La API se conecta a MySQL. Modifica las credenciales en el archivo db.ts para configurar la conexión a la base de datos.
 
 ### Iniciar la aplicación web
+Una vez descomprimido el zip, crear una carpeta con nombre gestion-tareas
+
 - Ubicarse en el directorio
 ```bash
 cd gestion-tareas
